@@ -1,0 +1,14 @@
+{
+  "name": "soulsearch",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build.js",
+    "dev": "node scripts/build.js && sirv docs --dev --single",
+    "start": "sirv docs --single"
+  },
+  "devDependencies": {
+    "prettier": "^3.0.0",
+    "sirv-cli": "^2.0.0"
+  }
+}
