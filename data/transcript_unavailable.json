@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "videoId": "RxpTYFRk6qg",
+    "reason": "missing_english_transcript",
+    "firstCheckedAt": "2025-03-24T12:00:00+00:00",
+    "lastCheckedAt": "2025-03-24T12:00:00+00:00",
+    "lastError": "No English transcript: subtitles disabled or unavailable via youtube-transcript-api and yt-dlp."
+  },
+  {
+    "videoId": "RvqeOMVdN14",
+    "reason": "missing_english_transcript",
+    "firstCheckedAt": "2025-03-24T12:00:00+00:00",
+    "lastCheckedAt": "2025-03-24T12:00:00+00:00",
+    "lastError": "No English transcript: subtitles disabled or unavailable via youtube-transcript-api and yt-dlp."
+  }
+]
